@@ -1,0 +1,9 @@
+filename:       /home/aditya_sanap/Desktop/LSP_applications/Device_Drivers/Module4/Hello.ko
+description:    It is Marvellous Infosystem Driver
+author:         Aditya Bhaskar Sanap
+license:        GPL
+srcversion:     73A48B1B35F459E2869A841
+depends:        
+name:           Hello
+retpoline:      Y
+vermagic:       6.17.0-14-generic SMP preempt mod_unload modversions 

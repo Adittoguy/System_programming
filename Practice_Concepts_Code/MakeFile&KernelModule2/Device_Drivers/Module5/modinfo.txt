@@ -1,0 +1,11 @@
+filename:       /home/aditya_sanap/Desktop/LSP_applications/Device_Drivers/Module5/Hello.ko
+description:    It is Marvellous Infosystem Driver
+author:         Aditya Bhaskar Sanap
+license:        GPL
+srcversion:     54FC41A0C67CF1182B16E04
+depends:        
+name:           Hello
+retpoline:      Y
+vermagic:       6.17.0-14-generic SMP preempt mod_unload modversions 
+parm:           MarvellousNo:Its a Integer Variable
+ (int)
